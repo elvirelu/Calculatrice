@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calcultrice</string>
+    <string name="left_arrow">\u27F5</string>
+    <string name="square_root">\u221A</string>
+</resources>
